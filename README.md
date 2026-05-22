@@ -2,9 +2,6 @@
 
 Personal portfolio website showcasing my AI/ML, Python, and backend development projects.
 
-## 🚀 Live Portfolio
-https://kailashPatel1.github.io/kailash-portfolio/
-
 ## 👨‍💻 Skills
 - Python
 - Flask
