@@ -7,14 +7,17 @@ Personal portfolio website showcasing my AI/ML, Python, and backend development 
 - Flask
 - FastAPI
 - PostgreSQL
+- Power Bi
 - Pandas
 - NumPy
+- Matplotlib
 - AI & Machine Learning
 
 ## 📂 Projects
 - 🧠 Emotion Detector
 - 📋 Team Task Manager
 - 🛍️ Shop Vision AI
+- SmartChatAI
 - 🛒 E-Commerce Web Application
 
 ## 💼 Experience
